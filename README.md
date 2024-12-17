@@ -4,7 +4,7 @@ An Application to read csv file, using Tabulate for a better readability.
 The application was implemented as a CS50 assignment
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
 
-A demo can be watched at [Demo PizzaPy](https://cs50.harvard.edu/python/2022/psets/6/pizza/)
+A demo can be watched at [Demo : PizzaPy](https://cs50.harvard.edu/python/2022/psets/6/pizza/)
 
 ## Installation
 1. Clone the repository:
