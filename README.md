@@ -1,7 +1,7 @@
 # PizzaPy
 An Application to read csv file, using Tabulate for a better readability.
 
-The application was implemented as a CS50 assignment
+The application was implemented as a CS50 assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
 
 A demo can be watched at [Demo : PizzaPy](https://cs50.harvard.edu/python/2022/psets/6/pizza/)
@@ -9,7 +9,14 @@ A demo can be watched at [Demo : PizzaPy](https://cs50.harvard.edu/python/2022/p
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/krigjo25/console-pizza-py.git
+# Using SSh 
+ssh git@github.com:krigjo25/console-PizzaPy-py.git
+
+# Using git bash
+git clone https://github.com/krigjo25/console-PizzaPy-py.git
+
+# Using Github Cli
+gh repo clone console-PizzaPy-py
 ```
 
 2. Navigate to the project directory
@@ -52,7 +59,7 @@ Output:
 ```
 
 ##  Testing framework / Datasets
-No testing framework used in the project
+No testing framework / Datasets used in the project
 
 ## LICENCE
 The application is under [The Unlicensed](./LICENCE).
