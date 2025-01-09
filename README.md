@@ -9,7 +9,7 @@ A demo can be watched at [Demo : PizzaPy](https://cs50.harvard.edu/python/2022/p
 ## Installation
 1. Clone the repository:
 ```sh
-# Using SSh 
+# Using SSH
 ssh git@github.com:krigjo25/console-PizzaPy-py.git
 
 # Using git bash
